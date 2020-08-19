@@ -7,9 +7,9 @@
 
 **Thoughts:** I made some decent progress for the day, but I can do much better.
 
----  
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [RapidMiner Extension](https://github.com/Lonero-Team/RapidMiner-Extension)
 
+---  
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
