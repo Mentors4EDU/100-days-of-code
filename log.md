@@ -12,7 +12,7 @@
 ### Day 1: August 19, 2020 (Day 2)
 ##### (Starting out w/ Sheetsu)
 
-**Today's Progress**: Fixed some dev dependencies, created a Sheetsu account for a project and started looking over some API documentation. Also create a hpool config file.
+**Today's Progress**: Fixed some dev dependencies, created a Sheetsu account for a project and started looking over some API documentation. Also created a hpool config file.
 
 **Thoughts**: It was a long day today, and I was a bit tired to get that much work done.
 
