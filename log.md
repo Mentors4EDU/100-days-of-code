@@ -9,6 +9,13 @@
 
 **Link to work:** [RapidMiner Extension](https://github.com/Lonero-Team/RapidMiner-Extension)
 
+### Day 1: August 19, 2020 (Day 2)
+##### (Starting out w/ Sheetsu)
+
+**Today's Progress**: Fixed some dev dependencies, created a Sheetsu account for a project and started looking over some API documentation.
+
+**Thoughts**: It was a long day today, and I was a bit tired to get that much work done.
+
 ---  
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
