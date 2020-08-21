@@ -18,6 +18,13 @@
 
 **Link to work:** [hpool Config](https://github.com/Lonero-Team/hpool-Config)
 
+### Day 2: August 20, 2020 (Day 3)
+##### (Not too progressive of a day)
+
+**Today's Progress**: Updated some dependencies and read over some documentation for something related to file configs, that is basically it.
+
+**Thoughts**: Today was extremely long, so the work done wasn't much.
+
 ---  
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
