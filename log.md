@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 18, 2020 (Day 1)
+### Day 0: August 18, 2020 (Day 0)
 ##### (Getting some initial work done)
 
 **Today's Progress**: Updated some dev dependencies, initialized an important project and looked over some documentation.
@@ -9,7 +9,7 @@
 
 **Link to work:** [RapidMiner Extension](https://github.com/Lonero-Team/RapidMiner-Extension)
 
-### Day 1: August 19, 2020 (Day 2)
+### Day 1: August 19, 2020 (Day 1)
 ##### (Starting out w/ Sheetsu)
 
 **Today's Progress**: Fixed some dev dependencies, created a Sheetsu account for a project and started looking over some API documentation. Also created a hpool config file.
@@ -18,12 +18,30 @@
 
 **Link to work:** [hpool Config](https://github.com/Lonero-Team/hpool-Config)
 
-### Day 2: August 20, 2020 (Day 3)
+### Day 2: August 20, 2020 (Day 2)
 ##### (Not too progressive of a day)
 
 **Today's Progress**: Updated some dependencies and read over some documentation for something related to file configs, that is basically it.
 
 **Thoughts**: Today was extremely long, so the work done wasn't much.
+
+### Day 3: August 21, 2020 (Day 3)
+##### (Not much progress)
+
+**Today's Progress**: Another long day, just had time to update some dependencies.
+
+**Thoughts**: Today was extremely tedious.
+
+### Day 4: August 22, 2020 (Day 4)
+##### (Some more intial work done)
+
+**Today's Progress**: Updated some dev dependencies  
+📘 Looked over some old documentation and "discovered" some stuff  
+📚 Studied recursion in programming and data structures  
+🧮 Doing work related to mathematical logic  
+📅 Planning work I want to get done out
+
+**Thoughts**: At least I have been starting to pick up pace.
 
 ---  
 ### Day 0: February 30, 2016 (Example 2)
