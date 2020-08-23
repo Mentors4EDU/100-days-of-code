@@ -1,3 +1,5 @@
+# Log moved to [here](https://github.com/Mentors4EDU/Todo-List/blob/master/log.md)
+
 # 100 Days Of Code - Log
 
 ### Day 0: August 18, 2020 (Day 0)
