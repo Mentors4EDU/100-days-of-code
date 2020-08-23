@@ -43,6 +43,15 @@
 
 **Thoughts**: At least I have been starting to pick up pace.
 
+### Day 5: August 23, 2020 (Day 5)
+##### (Working w/ Jupyter)
+
+**Today's Progress**: Started getting more used to Embeded Jupyter  
+💻 Worked with an interactive IPython Notebook Environment  
+📊 Looked over some data view explorers and demos
+
+**Thoughts**: Started getting more used to an initial dev pace for this project.
+
 ---  
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
